@@ -8,3 +8,7 @@
 
     **[Ссылка на файл с ДЗ](https://docs.google.com/spreadsheets/d/1nzSAUUYiFnfR02VMnPijAU0BvmvZQVI7G1i8Go0KMas/edit?usp=sharing)**
 
+- ### Домашнее задание №3 - Работа с MongoDB
+
+    **[Ссылка на файл с ДЗ](https://docs.google.com/spreadsheets/d/1ledq0HPFRjqJtPzmKC4JFu6gLqxwAbTpRUjrNtqwPhE/edit?usp=sharing)**
+
